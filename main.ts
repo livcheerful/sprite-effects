@@ -1,0 +1,3 @@
+function teleportEffect (sprite: Sprite) {
+	
+}
